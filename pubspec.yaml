@@ -1,0 +1,37 @@
+name: quizz
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # AQUÍ NO VAN LOS ASSETS. Solo las librerías.
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  # El paquete va aquí en dev_dependencies
+  flutter_launcher_icons: "^0.13.1"
+
+# Esta es la sección de Flutter
+flutter:
+  uses-material-design: true
+
+  # Los assets van aquí, con 2 espacios de sangría
+  assets:
+    - assets/logo_unison.png
+    - assets/icon.jpg
+
+# ESTO VA AL FINAL, sin espacios al inicio (al mismo nivel que 'flutter:')
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/icon.jpg"
+  min_sdk_android: 21
