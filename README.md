@@ -29,10 +29,6 @@
 <img width="281" height="576" alt="Captura de pantalla 2026-03-09 105213" src="https://github.com/user-attachments/assets/c4d6df1e-14bd-444a-b5c9-9efc1f43d3e5" />
 <img width="280" height="566" alt="Captura de pantalla 2026-03-09 105226" src="https://github.com/user-attachments/assets/49630e89-4952-4d9c-b197-6da22c727677" />
 
-## Link de Descarga
-
-* https://drive.google.com/file/d/1NhVhJn3xCAxOMprAr0vgaf3KpYA5etpT/view?usp=sharing
-  
 
 
 
