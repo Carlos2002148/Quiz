@@ -22,17 +22,12 @@
 
 ## Imagenes de App
 
-* ![40874286-3285-4562-a0af-6c37cd8a85e7](https://github.com/user-attachments/assets/4bedfab6-30ca-4d85-8742-c3a4bcc12d73)
-
-* **![363ad91b-fa99-4ea9-bcf3-52229534ec7e](https://github.com/user-attachments/assets/aa102a89-2916-4148-b1a8-a682de35ef94)**
-
-* **![baa11d4a-4a34-438a-95a4-3485b526b3f2](https://github.com/user-attachments/assets/354c1df0-dd6e-4712-8c08-a6ac27611622)**
-  
-* ![36e87af7-5be0-4a19-808e-fb07a13071e1](https://github.com/user-attachments/assets/a474c100-bd30-4273-a30c-b3d89703497b)
-
-* ![89b1f42e-1962-4994-ac1a-103fdeeefe86](https://github.com/user-attachments/assets/09519bd7-a260-448a-8a18-b2adea930261)
-
-* ![859a596f-74d8-41aa-adb2-81ef0e701858](https://github.com/user-attachments/assets/188ee940-6002-44c7-b1d9-ff3a60e48791)
+<img width="282" height="583" alt="Captura de pantalla 2026-03-09 105118" src="https://github.com/user-attachments/assets/1480f8f5-0dbd-400f-a4e2-a24a18b661c6" />
+<img width="283" height="562" alt="Captura de pantalla 2026-03-09 105137" src="https://github.com/user-attachments/assets/46e82dee-c1d7-42c2-9934-ef31e776665d" />
+<img width="278" height="516" alt="Captura de pantalla 2026-03-09 105148" src="https://github.com/user-attachments/assets/09ab2774-f679-42f2-a85a-1e742adc7469" />
+<img width="277" height="502" alt="Captura de pantalla 2026-03-09 105201" src="https://github.com/user-attachments/assets/f9e60534-15e8-400a-9118-715edd440fa3" />
+<img width="281" height="576" alt="Captura de pantalla 2026-03-09 105213" src="https://github.com/user-attachments/assets/c4d6df1e-14bd-444a-b5c9-9efc1f43d3e5" />
+<img width="280" height="566" alt="Captura de pantalla 2026-03-09 105226" src="https://github.com/user-attachments/assets/49630e89-4952-4d9c-b197-6da22c727677" />
 
 ## Link de Descarga
 
