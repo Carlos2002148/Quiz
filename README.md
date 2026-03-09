@@ -1,17 +1,19 @@
-# quizz
+# Quizz Time
 
-A new Flutter project.
+**Quizz Time** es una aplicación móvil desarrollada con el framework **Flutter**. El proyecto es simple ya que es un quiz de 10 preguntas.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Características Principales
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **Aleatoriedad**: Implementación de algoritmos (*shuffle*) para preguntas y opciones de respuesta, asegurando que cada intento sea único.
+* **Gestión de Tiempo Real**: Cronómetro integrado que limita la duración de la sesión, calificando automáticamente las respuestas capturadas al agotarse el tiempo.
+* **Interfaz Intuitiva**: Diseño minimalista enfocado en la experiencia del usuario (UX), utilizando componentes de *Material Design*.
+* **Feedback Visual**: Pantalla de resultados con retroalimentación basada en colores dinámicos según el rendimiento obtenido.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologías Utilizadas
+
+* **Lenguaje**: [Dart]
+* **Framework**: [Flutter] (SDK ^3.11.0)
+* **Gestión de Tiempo**: `dart:async` para el control de temporizadores.
+* **Paquetes Externos**: `flutter_launcher_icons` para la gestión de activos nativos.
