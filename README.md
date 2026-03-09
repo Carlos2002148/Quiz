@@ -22,7 +22,7 @@
 
 ## Imagenes de App
 
-* **![40874286-3285-4562-a0af-6c37cd8a85e7](https://github.com/user-attachments/assets/6375bbfd-02a5-4484-a946-7e1f0094fbe4)**
+* ![40874286-3285-4562-a0af-6c37cd8a85e7](https://github.com/user-attachments/assets/4bedfab6-30ca-4d85-8742-c3a4bcc12d73)
 
 * **![363ad91b-fa99-4ea9-bcf3-52229534ec7e](https://github.com/user-attachments/assets/aa102a89-2916-4148-b1a8-a682de35ef94)**
 
@@ -33,6 +33,11 @@
 * ![89b1f42e-1962-4994-ac1a-103fdeeefe86](https://github.com/user-attachments/assets/09519bd7-a260-448a-8a18-b2adea930261)
 
 * ![859a596f-74d8-41aa-adb2-81ef0e701858](https://github.com/user-attachments/assets/188ee940-6002-44c7-b1d9-ff3a60e48791)
+
+## Link de Descarga
+
+* https://drive.google.com/file/d/1NhVhJn3xCAxOMprAr0vgaf3KpYA5etpT/view?usp=sharing
+  
 
 
 
